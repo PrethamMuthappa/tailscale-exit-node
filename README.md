@@ -8,3 +8,5 @@ A very simple script which will install tailscale to ur vps server and use that 
 - set inbound port rules to 41641 UDP in azure
 
 Rest of things which the vpn is supposed to have the bash script will set it up
+
+After this you will see your server name appear in the list of machine in tailscale dashboard, you need to click on your machine and click set as exit node!
